@@ -1,0 +1,3 @@
+com\javasampleapproach\cassandra\SpringDataCassandraApplication.class
+com\javasampleapproach\cassandra\model\Customer.class
+com\javasampleapproach\cassandra\repository\CustomerRepository.class
